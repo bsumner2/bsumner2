@@ -1,1 +1,1 @@
-- Greetings! my name is Burton O Sumner, and I'm a Comp Sci Student at The University of South Carolina!
+- Greetings! my name is Burt Sumner. Comp Sci Student by day, Homebrew GBA Developer by night.
